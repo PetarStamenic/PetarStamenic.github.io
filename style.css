@@ -1,0 +1,637 @@
+
+
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.scrollable {
+    align-items: flex-start;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    overflow: hidden;
+    width: 1440px;
+}
+
+.stranica-bysubess-hosting {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    height: 826px;
+    margin-right: 283px;
+    margin-top: 100px;
+    min-width: 853px;
+}
+
+.overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    margin-left: 16px;
+    min-height: 826px;
+    width: 273px;
+}
+
+.overlap-group-1 {
+    align-items: flex-start;
+    background-color: rgba(48, 48, 153, 1);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    width: 273px;
+}
+
+.overlap-group-7 {
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 300px;
+    width: 273px;
+}
+
+.scrollable .detaljnije-5 {
+    height: 50px;
+    letter-spacing: 0;
+    line-height: 60px;
+    text-align: right;
+    white-space: nowrap;
+    width: 214px;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.detaljnije-3 {
+    margin-bottom: -10px;
+    margin-right: 13px;
+}
+
+.x250-gb-ssd-250-tb-prot {
+    align-self: center;
+    height: 234px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    margin-top: 8px;
+    width: 247px;
+}
+
+.professional {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.rookie {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.overlap-group-6 {
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 300px;
+    padding: 0 4px;
+    width: 273px;
+}
+
+.detaljnije-2 {
+    margin-bottom: -10px;
+    margin-right: 9px;
+}
+
+.x-gb-ssd {
+    height: 234px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    margin-top: 8px;
+    width: 247px;
+}
+
+.scrollable .overlap-group-container-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    margin-left: 15px;
+    min-height: 826px;
+}
+
+.overlap-group-container-2 {
+    width: 274px;
+}
+
+.overlap-group3-1 {
+    height: 400px;
+    position: relative;
+    width: 274px;
+}
+
+.scrollable .ponuda {
+    left: 0;
+    position: absolute;
+    width: 273px;
+}
+
+.ponuda-bot {
+    background-color: rgba(255, 255, 255, 1);
+    height: 300px;
+    top: 100px;
+}
+
+.progressive {
+    height: 100px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: 75px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 273px;
+}
+
+.x75-gb-ssd-75-tb-protok {
+    height: 234px;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    position: absolute;
+    top: 108px;
+    width: 247px;
+}
+
+.detaljnije-4 {
+    left: 49px;
+    position: absolute;
+    top: 350px;
+}
+
+.ponuda-top {
+    background-color: rgba(48, 48, 153, 1);
+    border-radius: 30px;
+    height: 400px;
+    top: 0;
+}
+
+.ponudu-container-1 {
+    height: 400px;
+    position: relative;
+    width: 274px;
+}
+
+.prikazi-ponudu {
+    background-color: rgba(255, 255, 255, 1);
+    height: 400px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 273px;
+}
+
+.pogledaj-ponudu {
+    height: 400px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 274px;
+}
+
+.overlap-group {
+    align-items: flex-start;
+    background-color: rgba(32, 32, 112, 1);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 826px;
+    width: 273px;
+}
+
+.overlap-group1 {
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    min-height: 726px;
+    width: 273px;
+}
+
+.biznis-ssd-hosting-p {
+    align-self: center;
+    height: 676px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    width: 247px;
+}
+
+.scrollable .pogledaj-ponudu-3 {
+    height: 50px;
+    letter-spacing: 0;
+    line-height: 60px;
+    margin-bottom: -10px;
+    margin-right: 13px;
+    text-align: right;
+    white-space: nowrap;
+    width: 214px;
+}
+
+.business-hosting {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.overlap-group10 {
+    height: 1547px;
+    margin-left: -1000px;
+    position: relative;
+    width: 3448px;
+}
+
+.stranica-web-hosting {
+    align-items: flex-start;
+    display: flex;
+    height: 826px;
+    left: 1150px;
+    min-width: 854px;
+    position: absolute;
+    top: 721px;
+}
+
+.title {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.postavite-svoju-web {
+    align-self: center;
+    height: 676px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    width: 247px;
+}
+
+.overlap-group-3 {
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    min-height: 300px;
+    padding: 0 11px;
+    width: 273px;
+}
+
+.detaljnije {
+    margin-bottom: -10px;
+}
+
+.x10-gb-ssd-addon-domen {
+    height: 234px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    width: 247px;
+}
+
+.name {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.senjor {
+    height: 100px;
+    letter-spacing: 0;
+    line-height: 75px;
+    text-align: center;
+    width: 273px;
+}
+
+.overlap-group-4 {
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 300px;
+    padding: 0 11px;
+    width: 273px;
+}
+
+.overlap-group-container-1 {
+    width: 275px;
+}
+
+.overlap-group3 {
+    height: 400px;
+    position: relative;
+    width: 275px;
+}
+
+.detaljnije-1 {
+    left: 42px;
+    position: absolute;
+    top: 334px;
+}
+
+.x20-gb-ssd-addon-domen {
+    height: 234px;
+    left: 21px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    position: absolute;
+    top: 100px;
+    width: 247px;
+}
+
+.medior {
+    height: 100px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: 75px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 273px;
+}
+
+.ponudu-container {
+    height: 400px;
+    position: relative;
+    width: 274px;
+}
+
+.overlap-group7 {
+    align-items: flex-end;
+    background-color: rgba(13, 16, 84, 1);
+    display: flex;
+    flex-direction: column;
+    gap: -7px;
+    left: 0;
+    min-height: 160px;
+    padding: 0 1135px;
+    position: absolute;
+    top: 0;
+    width: 3440px;
+}
+
+.flex-row {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    margin-left: 14.25px;
+    min-width: 1122px;
+}
+
+.overlap-group-5 {
+    align-self: flex-end;
+    height: 51px;
+    margin-bottom: 3px;
+    margin-left: 72px;
+    position: relative;
+    width: 268px;
+}
+
+.pretrazi-domen {
+    color: rgba(0, 0, 0, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    height: 50px;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 54px;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+    width: 237px;
+}
+
+.scrollable .text {
+    letter-spacing: 0;
+    position: absolute;
+    white-space: nowrap;
+}
+
+.text-2 {
+    color: rgba(0, 0, 0, 1);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 400;
+    height: 50px;
+    left: 238px;
+    line-height: 72px;
+    top: 0;
+    width: 30px;
+}
+
+.search-bar {
+    background-color: #d9d9d9;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 268px;
+}
+
+.cyper-webb-ponude-o-nama-blog {
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 400;
+    height: 60px;
+    letter-spacing: 0;
+    line-height: 72px;
+    margin-left: 18px;
+    margin-top: 1px;
+    white-space: nowrap;
+    width: 700px;
+}
+
+.scrollable .logo-2 {
+    height: 64px;
+    object-fit: cover;
+    width: 64px;
+}
+
+.kontakt-telefon-381 {
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    height: 28px;
+    letter-spacing: 0;
+    line-height: 54px;
+    white-space: nowrap;
+    width: 569px;
+}
+
+.artistic-wallpaper-preview-1 {
+    height: 1080px;
+    left: 760px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.overlap-group9 {
+    align-items: flex-start;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    height: 911px;
+    left: 2016px;
+    min-width: 273px;
+    padding: 14px 15px;
+    position: absolute;
+    top: 210px;
+}
+
+.web-hosting-4-gb-pro {
+    height: 881px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    width: 242px;
+}
+
+.overlap-group-2 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    left: 1152px;
+    min-height: 400px;
+    position: absolute;
+    top: 210px;
+    width: 849px;
+}
+
+.overlap-group1-1 {
+    height: 72px;
+    position: relative;
+    width: 849px;
+}
+
+.saznaj-vise {
+    height: 67px;
+    left: 674px;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 175px;
+}
+
+.text-1 {
+    height: 53px;
+    left: 0;
+    line-height: 60px;
+    top: 19px;
+    width: 81px;
+}
+
+.progress-bar-before-next-slide {
+    background-color: rgba(48, 48, 153, 1);
+    height: 7px;
+    left: 0;
+    position: absolute;
+    top: 65px;
+    width: 849px;
+}
+
+.glasajte-za-nas-glas {
+    height: 284px;
+    letter-spacing: 0;
+    line-height: 33px;
+    margin-left: 0;
+    margin-top: 41px;
+    width: 687px;
+}
+
+.center {
+    background-color: #909090e6;
+    height: 1000px;
+    left: 1135px;
+    position: absolute;
+    top: 0;
+    width: 1170px;
+}
+
+.hyperlink {
+    height: 247px;
+    left: 2024px;
+    position: absolute;
+    top: 283px;
+    width: 242px;
+}
+
+.footer {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    justify-content: flex-start;
+    margin-left: -990px;
+    margin-top: 130px;
+    min-width: 3444px;
+    width: auto;
+}
+
+.overlap-group8 {
+    align-items: flex-end;
+    background-color: rgba(13, 16, 84, 1);
+    display: flex;
+    height: 251px;
+    min-width: 3440px;
+    padding: 0 1151px;
+}
+
+.sa-vama-smo-vec-12-g {
+    height: 128px;
+    letter-spacing: 0;
+    line-height: 33px;
+    margin-left: 23px;
+    width: 384px;
+}
+
+.logo-1 {
+    margin-bottom: 32px;
+}
+
+.imate-dilemu-ili-pit {
+    height: 246px;
+    letter-spacing: 0;
+    line-height: 33px;
+    margin-left: 192px;
+    width: 465px;
+}
+
